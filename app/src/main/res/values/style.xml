@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="option_button" parent="TextAppearance.AppCompat">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">80dp</item>
+        <item name="android:layout_margin">16dp</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:backgroundTint">@drawable/button_focus</item>
+        <item name="android:stateListAnimator">@null</item>
+    </style>
+</resources>
